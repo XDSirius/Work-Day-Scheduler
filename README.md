@@ -13,4 +13,4 @@ To us this website, you may click on the text box that is align with the desired
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
 
 ## License
-Please refer to the license in the repo.
+Please refer to the LICENSE in the repo.
