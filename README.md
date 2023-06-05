@@ -14,6 +14,6 @@ To us this website, you may click on the text box that is align with the desired
 
 ## Credits
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
-
+A big thanks to my tutor for helping me solve this challenge as well as helping me understand the process and the logic for this code.
 ## License
 Please refer to the LICENSE in the repo.
