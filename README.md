@@ -10,7 +10,7 @@ https://xdsirius.github.io/Work-Day-Scheduler/
 ## Usage
 To us this website, you may click on the text box that is align with the desired time and add event to your scheduler. Then once added, click on the right icon to save it to local storage. Now, if you happen to refresh your page, your item will will not be deleted and it will save to your local storage. 
 
-![Website](https://github.com/XDSirius/Work-Day-Scheduler/blob/main/assets/imgs/screenshot.img "Scheduler Image")
+![Website](https://github.com/XDSirius/Work-Day-Scheduler/blob/main/assets/imgs/screenshot.jpg "Scheduler Image")
 
 ## Credits
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
