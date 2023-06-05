@@ -38,7 +38,11 @@ $(function () {
     // the values of the corresponding textarea elements. HINT: How can the id
     // attribute of each time-block be used to do this?
     //
-    
+   for (var i = 9;i<18;i++){
+    $("#hour-"+i+" .description").val(localStorage.getItem("hour-"+i))
+   }
+
+
     // TODO: Add code to display the current date in the header of the page.
     $("#currentDay").text(dayjs().format("dddd MMMM D YYYY"));
   });
